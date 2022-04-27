@@ -1,0 +1,17 @@
+{
+  "name": "book-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon book.js"
+  },
+  "author": "lodrick",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
