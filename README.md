@@ -42,9 +42,7 @@ One of the new feature i will add in this project is implementing best authentic
 | PUT  | /Idbooks/id   |Edit's a single book from books.json file|
 | DELETE  | /Idbooks/id   |Delete's a single book from books.json file|
 
-# Credits
-Before i started this project i passed along team treehouse tutorials to obtain Node.Js and Express.Js knowledges as i was able to complete all the tutorials and be able to use the knowledge i obtained to work on the project.
-To follow along the tutorials use the link [teamtreehouse](https://teamtreehouse.com/).
-Also i used [stackoverflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/) to solve many of challenges i faced when performing this project
+# Acknowlegements
+Before i started this project i passed along team treehouse tutorials to obtain Node.Js and Express.Js knowledges as i was able to complete all the tutorials and be able to use the knowledge i obtained to work on the project. To follow along the tutorials use the link [teamtreehouse](https://teamtreehouse.com/). Also i used [stackoverflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/) to solve many of challenges i faced when performing this project
 
 
