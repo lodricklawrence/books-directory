@@ -6,11 +6,7 @@
 Books-directory is a backend project which i performed as one of the task posted in [task link](https://www.blog.duomly.com/node-js-project-ideas-for-beginners/#1-books-directory).
 
 ### What it can do
-In this project a user can register a book by its id and name and the book will be saved in book.json file via POST http request pointing an certain server end point.
-In this project a user can fetch all books which were saved at books.json file via GET http request pointing a certain endpoint in the server.
-In this project a user can fetch a single book saved at books.json file via GET http request with book's id passed as params in the request pointing a certain server endpoint.
-In this project a user can edit a single book saved at books.json file via PUT http request with book's id as params in the request pointing a certain server endpoint.
-In this project a user can delete a single book saved at books.json file via DELETE http request with book's id as params in the request pointing a certain server endpoint.
+In this project a user can register a book by its id and name and the book will be saved in book.json file via POST http request pointing an certain server end point, fetch all books which were saved at books.json file via GET http request pointing a certain endpoint in the server, fetch a single book saved at books.json file via GET http request with book's id passed as params in the request pointing a certain server endpoint, edit a single book saved at books.json file via PUT http request with book's id as params in the request pointing a certain server endpoint and delete a single book saved at books.json file via DELETE http request with book's id as params in the request pointing a certain server endpoint.
 
 ### Technology used
 In this project i used javascript programming language by implementing one of its backend framework called Node.Js with express.js.
