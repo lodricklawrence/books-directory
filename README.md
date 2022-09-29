@@ -24,9 +24,9 @@ One of the new feature i will add in this project is implementing best authentic
 # Installation guide
 1. Install Node.js v16.14.2 in your local computer [Node Js](https://nodejs.org/en/).
 2. Install Git as a version controller.
-3. Copy the project repository directory from here.
+3. Copy the project repository directory URL from here.
 4. Go to the directory in your computer where you want the cloned project to be placed.
-5. Open the command line and run git clone [paste the copied directory] then run.
+5. Open the command line and run git clone <paste the URL> then run.
 6. The project files are ready set in your local computer at that specific directory.
 7. Then run npm install, Inorder to install all dependencies which present in package.json file.
 8. After installation of all dependencies run npm start to your terminal to initiate the express server.
@@ -39,7 +39,7 @@ One of the new feature i will add in this project is implementing best authentic
 
 # Project End-points
 | HTTP Method  | URL |Functionality|
-| ------------- | ------------- |
+| ------------- | ------------- |-------|
 | POST  | /Addbooks  |Adds a new book in books.json file|
 | GET  | /Addbooks   |Fetch's all books from books.json file|
 | GET  | /Idbooks/id   |Fetch's a single book from books.json file|
