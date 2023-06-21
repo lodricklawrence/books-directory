@@ -9,13 +9,7 @@ Books-directory is a backend project which i performed as one of the task posted
 In this project a user can register a book by its id and name and the book will be saved in book.json file via POST http request pointing an certain server end point, fetch all books which were saved at books.json file via GET http request pointing a certain endpoint in the server, fetch a single book saved at books.json file via GET http request with book's id passed as params in the request pointing a certain server endpoint, edit a single book saved at books.json file via PUT http request with book's id as params in the request pointing a certain server endpoint and delete a single book saved at books.json file via DELETE http request with book's id as params in the request pointing a certain server endpoint.
 
 ### Technology used
-In this project i used javascript programming language by implementing one of its backend framework called Node.Js with express.js.
-I used javascript as because its one among the best powerfull programming language.
-I used Node.js with express.js as a backend javascript framework because is one among best multi-threading server-side performance for users http requests.
-
-### Challenges and future adding features
-One of the challenges i faced in this project is in using of body-parser express middleware to handle all Http request and responses to the server but at the end i managed to use it.
-One of the new feature i will add in this project is implementing best authentication for all server endpoints and adding a frontend part.
+Node.Js with express.js.
 
 # Installation guide
 1. Install Node.js v16.14.2 in your local computer [Node Js](https://nodejs.org/en/).
